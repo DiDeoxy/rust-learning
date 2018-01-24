@@ -1,6 +1,6 @@
 [package]
 name = "hello_cargo"
 version = "0.1.0"
-authors = ["Max_H"]
+authors = ["max hargreaves <max_hargreaves@outlook.com>"]
 
 [dependencies]
